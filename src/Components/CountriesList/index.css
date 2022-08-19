@@ -1,0 +1,28 @@
+.c-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px;
+  border-bottom: 1px solid #cbd5e1;
+}
+.c-name {
+  font-family: roboto;
+  font-size: 17px;
+  color: #ffffff;
+}
+.c-status {
+  font-family: roboto;
+  font-size: 17px;
+  color: #94a3b8;
+}
+.add-button {
+  cursor: pointer;
+  padding: 5px 15px;
+  background-color: #3b82f6;
+  border: none;
+  color: white;
+  font-size: 17px;
+  outline: none;
+  border-radius: 7px;
+}

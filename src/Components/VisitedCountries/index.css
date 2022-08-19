@@ -1,0 +1,36 @@
+.countries-container {
+  background-color: #161624;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+}
+.heading {
+  font-family: roboto;
+  font-size: 20px;
+  color: white;
+}
+.no-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.no-para {
+  font-family: roboto;
+  font-size: 18px;
+  color: white;
+}
+.top-container {
+  background-color: #1f1f2f;
+  width: 100%;
+  padding-left: 0;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+}
+.bottom-container {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 50vh;
+}
